@@ -12,7 +12,7 @@
     "express": "^4.16.3",
     "helmet": "^3.14.0",
     "dummy": "latest",
-    "xxxxx", "1.2.3",
+    "xxxxx": "1.2.3",
     "d3": "latest"
   }
 }
